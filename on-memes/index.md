@@ -1,5 +1,6 @@
 ---
 title: On Memes
+layout: layout
 ---
 
 This is my attempt to wrap my head around memes.

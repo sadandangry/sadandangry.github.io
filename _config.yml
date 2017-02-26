@@ -1,5 +1,10 @@
 title: Sad and Angry
-theme: jekyll-theme-minimal
+description: > # this means to ignore newlines until "baseurl:"
+  A journal. For catharsis.
+baseurl: "/sad-and-angry"
 
 # Fork into background when serving
 detach:  false
+markdown: kramdown
+
+destination: "_site/"

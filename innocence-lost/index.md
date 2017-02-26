@@ -1,5 +1,6 @@
 ---
 title: Innocence Lost
+layout: layout 
 ---
 
 When did the real world first find it's way into yours?

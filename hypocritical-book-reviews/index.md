@@ -1,5 +1,6 @@
 ---
 title: Hypocritical Book Reviews
+layout: layout 
 ---
 
 I think that some of the most fantastic, caustic and accurate descriptions and
