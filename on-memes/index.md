@@ -13,17 +13,14 @@ for using this was genetics and evolutionary theory. A gene / replicator /
 meme is successful if it is able to spread wide enough among a
 population such that it becomes ubiquitous within that population.
 
-```
-"We need a name for the new replicator, a noun that conveys the idea of a unit
+*"We need a name for the new replicator, a noun that conveys the idea of a unit
 of cultural transmission, or a unit of imitation. 'Mimeme' comes from a
 suitable Greek root, but I want a monosyllable that sounds a bit like 'gene'.
 TYGO DANS classicist friends will forgive me if I abbreviate mimeme to meme.
 If it is any consolation, it could alternatively be thought of as being
 related to 'memory', or to the French word même. It should be pronounced to
-rhyme with 'cream'."
--  Dawkins, Richard (1989), The Selfish Gene (2 ed.), Oxford University Press,
-   p. 192, ISBN 0-19-286092-5,
-```
+rhyme with 'cream'."* - Dawkins, Richard (1989), The Selfish Gene (2 ed.),
+Oxford University Press, p. 192, ISBN 0-19-286092-5,
 
 Now the term has mutated (as only a replicator can) into any idea, concept or
 fad which spreads quickly in society, usually using the internet as its
@@ -111,7 +108,50 @@ later.
 
 ## Given the context in which they are used, why are they used?
 
-TBD
+Why do we use memes? Well, I think the main reason is they are natural
+consequence of the constraints on communication the internet places on us.
+
+Memes are concise, *relatable*, graphical and **shared**. They represent or
+express a communal experience which does not require the physical presence of
+another person to be a part of. This is an inherent difficulty that the
+internet presents us with. When we cannot *see* the people we are communicating
+with, how do we build a community? All communities are built on shared values
+or experiences, and memes are a fantastically effective way of building
+these shared values in a constrained environment like the internet.
+
+In the real world, shared values are built through dialogue and discussion.
+While the internet is amenable to this, it is a poor substitute for
+real discussion and debate in person.
+
+Long, nuanced discussion of complex topics on the internet is not an easy
+thing to achieve or take part in. In the absence of facial cues and the
+ability to assume the qualified nature of a statement, everything is taken at
+face value and is therefore succesptible to (sometimes willful)
+missunderstanding.
+
+Memes and other concise methods of expression or reaction (looking at you,
+Twitter) are perfect in this scenario because they are atomic in how they are
+interpreted. That is, they are often too short to really contain nuance or
+allow for any confidence in extrapolating meaning from them. They can be
+safely taken at face value, and are so we can be confident in our understanding
+of them, and therefore easily build confidence in our communities shared values
+as expressed by the meme, or instance of the meme.
+
+So in short, I think we create and consume memes to build a sense of community
+or shared values which we are otherwise unable or unwilling to foster due to
+the nature of the internet as a medium. In an environment which otherwise makes
+it impossible to reliably empathise with other people, we instead create small
+expressions, which are inherently easy to relate to, build upon and share with
+others.
+
+The implications for simply bypassing the problem of nuanced expression on the
+internet are interesting. By reverting to using memes as atomic units of
+expression, taken literally and at face value, we have almost regressed in
+terms of language back to a time before we expressed ourselves in complex
+sentances in the real world. We have a new "internet-word", one that is more
+expressive than a word in the traditional sence, but is not used to construct
+sentances, and that cannot be decomposed into smaller units as a normal
+sentance can.
 
 ## Why are certain memes more significant for different internet subcultures?
 
