@@ -210,7 +210,13 @@ ignore it completely.
 
 ## What do we mean when we say a meme is "true"?
 
-TBD
+A common reaction to instances of memes I have seen is an expression of how
+"true" it is. Description of a meme as "true" is almost always used
+positively, and is probably the single best qualitative metric of how
+successful a meme is.
+
+I think people say this to express or emphasise just how relatable or accurate
+they find a particular instance of a meme.
 
 ---
 
