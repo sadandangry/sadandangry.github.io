@@ -46,8 +46,8 @@ So here are some questions I have:
 - What do we gain from using them? What do we loose?
 - What do we mean when we say a meme is "true"?
 
-I'll try and answer these to the best of my understanding, and try and sum it
-all up at the end.
+I'll try and answer these to the best of my understanding, and see where that
+takes me.
 
 ---
 
@@ -218,9 +218,62 @@ successful a meme is.
 I think people say this to express or emphasise just how relatable or accurate
 they find a particular instance of a meme.
 
+Now, this "truth" of memes takes on a whole new significance in light of
+the coining of "post-truth". That is, the assertion that we live in a
+society which no longer values or seeks objective truth, and instead is
+content simple with subjective experience, or assertions which fit with ones
+pre-existing world view.
+
+Memes are perfect for expressing what passes for truth in such a world. They
+are too short to extrapolate sensibly, and have a reputation for humor which
+means they are not taken seriously enough to warrant correction. Anyone who
+does question the accuracy of a meme will likely be shouted down in a tide
+of venom or ignorance. Memes rely on the jeering acceptance of the crowd, not
+the piercing accuracy of an individual. We are willing to overlook the
+generalising nature of memes so long as we gain from them a sense of relation
+to the world, and affirmation that our understanding and experience of it is
+"correct". That is, correct in the sense that lots of other people have the
+same experience.
+
+Truth has become a byword for the collective experience of the majority in
+whichever social context is being observed. Memes are perfect for propagating
+this sort of "personalised truth" because they seek only to validate the
+pre-conceptions of the consumers, rather than to challenge the validity of
+any objective sense of reality. We will happily ignore the week parts of any
+assertion an instance of a meme might make so long as some part of it's 
+assertion helps us find connection and validation in our view of it.
+
+There is no room for qualification in what a meme might seek to express. Each
+time we consume an instance of a meme, we accept its generalisation and do
+not bother to identify the counterexamples or cases where it does not apply.
+In doing so, it is possible that we create a certain kind of forward feedback
+loop which encourages us to filter out anything which might come between us
+and the feeling of connection to the community the meme is spreading in.
+
+I realise now that this has all gotten rather serious now, and anticipate
+being told to "lighten up". Well, yes. I probably should. But then again,
+I am sad and angry and if you are telling me to lighten up because 
+contemplating the seriousness of my points is to close to the bone for you,
+perhaps you are a prime example of what I am trying to point out.
+
+Memes are the perfect comfort-blanket response to a world full of
+contradiction.  Where we can *connect* with more people than ever before and
+yet we empathise, sympathise with and seek to understand fewer and fewer.
+Where we are bombarded with news of scary things, and are divided and 
+manipulated my powers too subtle and widespread for us to notice. Where we
+say more and more and listen less and less.
+
+In such a world, anything which lets us feel part of some wider community which
+validates our own worldly experience is to be seized upon. We can't do this in
+person, we lost the ability to talk to our neighbours years ago. So we turn
+to the internet. Where we can *connect* with thousands of faceless avatars in
+the hope of gaining some semblance of the connection to humanity that we used
+to get in person.
+
+In a world where objective truth is no longer something we share, memes are the
+only shared value that many of us can rely on. They are the only connection
+to other people, the only validation that we can seek and attain.
+
 ---
 
-## Summary
-
-TBD
-
+Feedback on a postcard to: sadandangry at protonmail dot com
