@@ -1,42 +1,18 @@
 
-body{
-    padding:0px;
-    margin: 0px;
-}
+body{ padding:0px; margin: 0px;  font-weight: lighter; 
+font-family: Verdana,Geneva,sans-serif; line-height:2.0;}
 
-#navbar{
-    padding: 5px;
-    float: left;
-}
+#navbar{padding: 5px; float: left; }
 
-#body-content{
-    float: left;
-    padding-left: 15px;
-    padding-right: 15px;
-}
+#body-content{ float: left; padding-left: 15px; padding-right: 15px; }
 
 @media only screen and (min-width: 768px){
-    #navbar{
-        width: 20%;
-        position: fixed;
-        top:0px;
-        bottom: 0px;
-        border-right: 2px solid #CCC;
-    }
-
-    #body-content{
-        margin-left: 25%;
-        max-width: 800px;
-        width:75%;
-    }
+#navbar{ width: 20%; position: fixed; top:0px; bottom: 0px; 
+    border-right: 2px solid #CCC; }
+#body-content{ margin-left: 25%; max-width: 800px; width:75%;}
 }
 
 @media only screen and (max-width: 768px){
-    #navbar{
-        width: 100%;
-        border-bottom: 2px solid #CCC;
-    }
-    #body-content{
-        width: 100%;
-    }
+#navbar{ width: 100%; border-bottom: 2px solid #CCC; }
+#body-content{width: 100%;}
 }
