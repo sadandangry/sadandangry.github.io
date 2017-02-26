@@ -14,5 +14,5 @@ font-family: Verdana,Geneva,sans-serif; line-height:2.0;}
 
 @media only screen and (max-width: 768px){
 #navbar{ width: 100%; border-bottom: 2px solid #CCC; }
-#body-content{width: 100%;}
+#body-content{width: 90%;}
 }
