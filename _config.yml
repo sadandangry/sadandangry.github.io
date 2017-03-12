@@ -1,7 +1,7 @@
 title: Sad and Angry
 description: > # this means to ignore newlines until "baseurl:"
   A journal. For catharsis.
-baseurl: "/sad-and-angry"
+baseurl: "/"
 
 # Fork into background when serving
 detach:  false
