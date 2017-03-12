@@ -8,3 +8,4 @@ detach:  false
 markdown: kramdown
 
 destination: "_site/"
+layouts_dir: "assets/"
